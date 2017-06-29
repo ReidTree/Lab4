@@ -1,0 +1,70 @@
+h2 {
+  margin-top: -20px;
+  font-size: 9vw;
+  color: rgb(51, 122, 183);
+  font-family: 'Yellowtail', cursive;
+}
+.carousel {
+  margin-top: -36px;
+}
+.carousel-inner{
+  width:100%;
+  max-height: 500px !important;
+}
+span{
+  width: 5vw;
+}
+.max {
+  width: 40%;
+  float: left;
+  border-radius: 5%;
+  margin: 0 1em 0 0;
+}
+.nav {
+  margin-top: 20%;
+}
+.inline {
+  display: inline;
+  margin: 1em 0;
+}
+h5 a {
+  margin: 0 20px;
+}
+footer div {
+  margin-bottom: 0;
+}
+.jumbotron {
+  margin-bottom: 0;
+  background-color: rgba(255,255,224, 1);
+}
+.bloghead {
+  margin: 2% 0;
+}
+.blogtitle {
+  margin-right: 1.5em;
+  font-size: 2vw;
+  font-weight: bold;
+}
+.titlerow{
+  font-size: .5vw;
+}
+li a {
+  color: #337ab7;
+  background-color: rgba(255,255,224, 1);
+  margin-top: 10px;
+  font-size: 2vw;
+}
+body {
+    background-color: rgba(
+51, 122, 183, .1);
+}
+
+#vid {
+  margin: 20px 0;
+}
+footer div.jumbotron {
+  padding: 10px;
+}
+button {
+  margin: -15px 0;
+}
